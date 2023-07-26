@@ -6,7 +6,8 @@
 
 ## Large Language Model
 ### 2023
-- ICML [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2304.01373) [[Code]](https://github.com/EleutherAI/pythia)
+- arXiv, Meta [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
+- ICML, EleutherAI [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2304.01373) [[Code]](https://github.com/EleutherAI/pythia)
 
 
 ## In-context Learning
@@ -21,4 +22,4 @@
 - OpenAI [Text and Code Embeddings by Contrastive Pre-Training](https://cdn.openai.com/papers/Text_and_Code_Embeddings_by_Contrastive_Pre_Training.pdf)
 
 ### 2022
-- arXiv [Text Embeddings by Weakly-Supervised Contrastive Pre-training](https://arxiv.org/abs/2212.03533)
+- arXiv, MS [Text Embeddings by Weakly-Supervised Contrastive Pre-training](https://arxiv.org/abs/2212.03533)
