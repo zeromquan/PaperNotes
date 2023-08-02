@@ -13,6 +13,10 @@
 ## In-context Learning
 ### 2023
 - ICML [Compositional Exemplars for In-context Learning](https://arxiv.org/abs/2302.05698)
+- arXiv [Learning to Retrieve In-Context Examples for Large Language Models](https://arxiv.org/abs/2307.07164)
+
+### 2022
+- NAACL [Learning To Retrieve Prompts for In-Context Learning](https://arxiv.org/abs/2112.08633)
 
 
 ## Text Embeddings
