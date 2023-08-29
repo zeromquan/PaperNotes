@@ -10,6 +10,8 @@
 - arXiv, Meta [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
 - ICML, EleutherAI [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2304.01373) [[Code]](https://github.com/EleutherAI/pythia)
 
+### 2022
+- arXiv, OpenAI [Efficient Training of Language Models to Fill in the Middle](https://arxiv.org/abs/2207.14255)
 
 ## In-context Learning
 ### 2023
