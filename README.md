@@ -6,6 +6,7 @@
 
 ## Large Language Model
 ### 2023
+- arXiv, Meta [Code Llama: Open Foundation Models for Code](https://arxiv.org/pdf/2308.12950v2.pdf)
 - arXiv, Meta [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
 - ICML, EleutherAI [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2304.01373) [[Code]](https://github.com/EleutherAI/pythia)
 
