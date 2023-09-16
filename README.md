@@ -6,6 +6,7 @@
 
 ## Large Language Model
 ### 2023
+- Baichuan [Baichuan 2: Open Large-scale Language Models](https://cdn.baichuan-ai.com/paper/Baichuan2-technical-report.pdf)
 - arXiv, Meta [Code Llama: Open Foundation Models for Code](https://arxiv.org/pdf/2308.12950v2.pdf)
 - arXiv, Meta [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
 - ICML, EleutherAI [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2304.01373) [[Code]](https://github.com/EleutherAI/pythia)
@@ -25,6 +26,7 @@
 ## Text Embeddings
 
 ### 2023
+- arXiv, BAAI [C-Pack: Packaged Resources To Advance General Chinese Embedding](https://arxiv.org/abs/2309.07597)
 - ACL [One Embedder, Any Task: Instruction-Finetuned Text Embeddings](https://arxiv.org/abs/2212.09741)
 - OpenAI [Text and Code Embeddings by Contrastive Pre-Training](https://cdn.openai.com/papers/Text_and_Code_Embeddings_by_Contrastive_Pre_Training.pdf)
 
